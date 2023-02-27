@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 #### I code with:
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### I'm currently working on:
@@ -26,22 +26,22 @@ Coding with ![Java Badge](https://img.shields.io/badge/Java-FFFFF7?logo=data%3Ai
 
 
 #### My Projects:
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) - [<a href="https://github.com/duckysheep/SEI40-Projects/tree/main/Daphne_SEI40_Project1">Color Tiles</a>](Move and control your character to color all tiles on the game board)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) - <a href="https://github.com/duckysheep/SEI40-Projects/tree/main/Daphne_SEI40_Project1">Color Tiles</a> (Move and control your character to color all tiles on the game board)
 
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) - [<a href="https://github.com/duckysheep/SEI40-Projects/tree/main/Daphne_SEI40_Project2">Crafting Calculator</a>](Allows users to quickly access crafting costs when making in-game items. Includes filtering, search, and favorite functions)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) - <a href="https://github.com/duckysheep/SEI40-Projects/tree/main/Daphne_SEI40_Project2">Crafting Calculator</a> (Allows users to quickly access crafting costs when making in-game items. Includes filtering, search, and favorite functions)
 
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) - [<a href="https://github.com/duckysheep/SEI40-Project3">APIsWalletWise</a>](Budget app to track income and expenses)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) - <a href="https://github.com/duckysheep/SEI40-Project3">APIsWalletWise</a> (Budget app to track income and expenses)
 
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - [<a href="https://github.com/duckysheep/SEI-Project-4">Event Tracker</a>](Tracking app that lets users register, host and join events)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)![Python Badge](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) - <a href="https://github.com/duckysheep/SEI-Project-4">Event Tracker</a> (Tracking app that lets users register, host and join events)
 
 
-####Version Control:
+#### Version Control:
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-####IDE:
+#### IDE:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
-####Technologies:
+#### Technologies:
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat) ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat)
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
