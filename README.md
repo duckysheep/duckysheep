@@ -30,7 +30,7 @@ Coding with ![Java Badge](https://img.shields.io/badge/Java-FFFFF7?logo=data%3Ai
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) - <a href="https://github.com/duckysheep/SEI40-Projects/tree/main/Daphne_SEI40_Project2">Crafting Calculator</a> (Allows users to quickly access crafting costs when making in-game items. Includes filtering, search, and favorite functions)
 
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) - <a href="https://github.com/duckysheep/SEI40-Project3">APIsWalletWise</a> (Budget app to track income and expenses)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) - <a href="https://github.com/duckysheep/SEI40-Project3">WalletWise</a> (Budget app to track income and expenses)
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)![Python Badge](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) - <a href="https://github.com/duckysheep/SEI-Project-4">Event Tracker</a> (Tracking app that lets users register, host and join events)
 
